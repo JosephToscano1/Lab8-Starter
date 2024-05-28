@@ -2,7 +2,7 @@
     "name": "JosephToscano1/Lab8-Starter",
     "short_name": "JosephToscano",
     "description": "PWA for cse110 lab 8",
-    "start_url": "http://127.0.0.1:5500/",
+    "start_url": "https://josephtoscano1.github.io/Lab8-Starter/index.html",
     "display": "standalone",
     "background_color": "white",
     "theme_color": "blue",
